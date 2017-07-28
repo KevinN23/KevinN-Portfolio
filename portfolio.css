@@ -55,7 +55,7 @@ html, body {
 
 .nav li:hover {
   color: #31363d;
-  cursor: pointer; 
+   
   -webkit-transition: color 1s;
   transition: color 1s;
 }
@@ -90,7 +90,7 @@ text-align: center;
 }
 
 span {
-  color: Yellow;
+  color: #a2acbc;
 }
 
 .headerpage2 {
